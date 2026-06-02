@@ -4,7 +4,10 @@ Este projeto consiste em um sistema interativo de controle de iluminação desen
 
 O projeto foi estruturado e testado utilizando o simulador eletrônico **Wokwi**.
 
-imagem
+<p align="center">
+  <img src=https://github.com/matheusaribeirodev/Calculadora.py/blob/main/Sem%20t%C3%ADtulo.png
+</p>
+
 
 Abaixo estão listados os componentes utilizados no circuito:
 
